@@ -1,8 +1,10 @@
 ### Salutations👩🏻‍💻🖐🏻
 
-Hi, I’m Sara! I am a fledgling Data Scientist studying with Lambda School. I like numbers, logic, and order. While data science includes all of these, it also involves many unknowns and variety. After all, data is human generated; and what are humans if not sometimes incomprehensible, always varied, and yet so much alike?
+Hi, I’m Sara! I am a fledgling Data Scientist studying with Lambda School.
 
-I have spent much of 2020/21 immersed in learning how data tells stories and how to generate models to reveal those stories. My first response to "python" is no longer "snake!", pandas doesn't always mean adorable black and white bears, and "random forest" isn't simply a term used to describe what one sees traveling in my native clime.
+I like numbers, logic, and order. While data science includes all of these, it also involves many unknowns and variety. After all, data is human generated; and what are humans if not sometimes incomprehensible, always varied, and yet abounding with commonalities?
+
+My first response to "python" is no longer "snake!", pandas doesn't always mean adorable black and white bears, "random forest" isn't simply a term used to describe what one sees traveling in my native clime, and "storytelling" is now a skill describing how to share information gleaned from extensive data, as well as childhood memories of being entralled by the tales otold by visiting Uncles.
 
 <!--
 **SaraWestWA/SaraWestWA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
